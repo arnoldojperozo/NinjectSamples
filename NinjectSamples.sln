@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectSample1", "NinjectSample1\NinjectSample1.csproj", "{735CDB82-E8DC-49D7-A994-90A6F20F6F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectSample2", "NinjectSample2\NinjectSample2.csproj", "{2741558B-D707-493D-B32E-042A41B1A248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735CDB82-E8DC-49D7-A994-90A6F20F6F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735CDB82-E8DC-49D7-A994-90A6F20F6F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735CDB82-E8DC-49D7-A994-90A6F20F6F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735CDB82-E8DC-49D7-A994-90A6F20F6F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2741558B-D707-493D-B32E-042A41B1A248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2741558B-D707-493D-B32E-042A41B1A248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2741558B-D707-493D-B32E-042A41B1A248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2741558B-D707-493D-B32E-042A41B1A248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
